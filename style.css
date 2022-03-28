@@ -1,0 +1,38 @@
+div{
+    padding: 10px;
+    margin: 20px;
+}
+h3{
+    background-color: coral;
+    padding: 10px;
+    margin: 10px;
+    display:inline;
+}
+span{
+    background-color: aqua;
+    margin: 5px;
+    padding: 5px;
+    display: block;
+}
+a{
+    background-color: rgb(67, 12, 117);
+    color: aliceblue;
+    padding: 5px;
+    margin: 5px;
+    display: block;
+}
+input{
+    outline: none;
+    display: block;
+    padding: 5px; 
+}
+section{
+    background-color: black;
+    margin: 5px solid black;
+    color: aliceblue;
+    width: 300px;
+}
+article{
+    background-color: rgb(163, 18, 18);
+}
+
